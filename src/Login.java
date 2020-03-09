@@ -86,7 +86,7 @@ public class Login extends JFrame {
 		panel.add(lblNewLabel);
 		
 		JLabel lblAdmin = new JLabel("ADMIN");
-		lblAdmin.setFont(new Font("Calibri", Font.BOLD | Font.ITALIC, 37));
+		lblAdmin.setFont(new Font("Calibri", Font.BOLD | Font.ITALIC, 11));
 		lblAdmin.setBackground(Color.BLACK);
 		lblAdmin.setBounds(211, 479, 138, 46);
 		panel.add(lblAdmin);
